@@ -8,6 +8,7 @@ k = int(input("Enter value of k: "))
 
 t = tuple(t)
 
+
 small = sorted(t)[:k]
 
 print("Minimum elements:", small)

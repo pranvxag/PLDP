@@ -1,0 +1,8 @@
+Hello world! This is a sample text file.
+This file contains words, punctuation, and repeated words.
+Hello again. This text will be used for testing the counting scripts.
+
+Numbers: 123 456
+Contractions: don't can't won't
+
+End of sample.
